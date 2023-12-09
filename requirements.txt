@@ -2,4 +2,6 @@ Flask
 Gunicorn
 numpy
 joblib
-sklearn
+scikit-learn
+scipy
+matplotlib
